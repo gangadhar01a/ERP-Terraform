@@ -1,0 +1,10 @@
+vnet = "NRHL-WestUS-1"
+subnet = "QA"
+location = "West US"
+NICname="terraform1"
+privateipaddress = "10.242.1.22"
+VM_name = "terraform1"
+VM_size = "Standard_DS1_v2"
+vnet_resource_group_name="EnterpriseApps-Network"
+VM_resource_group_name = "EnterpriseApps-Platform-PoC"
+
